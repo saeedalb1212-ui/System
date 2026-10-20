@@ -1,7 +1,7 @@
 {
-  "name": "evrest-revo-system-bot",
+  "name": "rivo-system",
   "version": "1.0.0",
-  "description": "Full Discord Management System Bot",
+  "description": "Rivo System Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
