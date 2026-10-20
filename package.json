@@ -1,0 +1,17 @@
+{
+  "name": "meeo-giveaway-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for Meeo Giveaway and Server Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
